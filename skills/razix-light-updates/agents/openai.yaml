@@ -1,0 +1,4 @@
+interface:
+  display_name: "Razix Light Updates"
+  short_description: "Drive Razix build/light updates from natural language"
+  default_prompt: "Use the local razix_build_light.py script to fetch Razix build status and control lights using natural-language commands mapped to CLI args."
